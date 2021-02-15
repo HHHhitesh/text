@@ -1,0 +1,9 @@
+ls
+cd 
+git init
+git remote and origin <gitlink>
+git remote -v
+git add
+git commit -m "firt commit"
+git push origin master
+git help
